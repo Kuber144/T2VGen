@@ -1,12 +1,3 @@
-# ------------------------------------------------------------------------
-# InstructVideo: Instructing Video Diffusion Models with Human Feedback
-# Copyright (c) Alibaba Group. All Rights Reserved.
-# Licensed under the Apache License, Version 2.0 [see LICENSE for details]
-# ------------------------------------------------------------------------
-# ----------------------------- Notice -----------------------------------
-# If you find it useful, please consider citing InstructVideo.
-# ------------------------------------------------------------------------
-
 import torch
 import torch.nn.functional as F
 import math
