@@ -193,10 +193,6 @@ cfg.log_interval = 100
 
 ### Default log_dir
 cfg.log_dir = 'workspace/temp_dir'
-# -----------------------------------------------------------------------------
-
-
-# ---------------------------- InstructVideo -----------------------------------------------
 cfg.reward_type = 'HPSv2'
 # cfg.temporal_reward_type = ['std', 'mean']
 cfg.temporal_reward_type = []
